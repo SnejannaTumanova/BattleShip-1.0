@@ -1,0 +1,9 @@
+img {
+  width: 400px;
+  border-radius: 28px;
+  box-shadow: 24px, 27px, 45px, rgba(16, 15, 15, 0.25);
+}
+
+.body {
+  background-color: aqua;
+}
